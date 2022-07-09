@@ -48,13 +48,14 @@ NOTE: Files are uploaded to the app but then disappear or are deleted after a wh
 
 ![This is an image](https://github.com/deepak-punia/cms_app/blob/main/uploads/2.jpg?raw=true)
 
+![This is an image](https://github.com/deepak-punia/cms_app/blob/main/uploads/6.jpg?raw=true)
+
+![This is an image](https://github.com/deepak-punia/cms_app/blob/main/uploads/7.jpg?raw=true)
+
 ![This is an image](https://github.com/deepak-punia/cms_app/blob/main/uploads/3.jpg?raw=true)
 
 ![This is an image](https://github.com/deepak-punia/cms_app/blob/main/uploads/4.jpg?raw=true)
 
 ![This is an image](https://github.com/deepak-punia/cms_app/blob/main/uploads/5.jpg?raw=true)
 
-![This is an image](https://github.com/deepak-punia/cms_app/blob/main/uploads/6,jpg?raw=true)
-
-![This is an image](https://github.com/deepak-punia/cms_app/blob/main/uploads/7.jpg?raw=true)
  
