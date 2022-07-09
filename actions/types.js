@@ -1,0 +1,17 @@
+export const SET_ALERT = 'SET_ALERT';
+export const REMOVE_ALERT = 'REMOVE_ALERT';
+export const REGISTER_SUCCESS = 'REGISTER_SUCCESS';
+export const REGISTER_FAIL = 'REGISTER_FAIL';
+export const USER_LOADED = 'USER_LOADED';
+export const AUTH_ERROR = 'AUTH_ERROR';
+export const LOGOUT = 'LOGOUT';
+export const LOGIN = 'LOGIN';
+export const LOAD_USER_COMPLAINTS = 'LOAD_USER_COMPLAINTS';
+export const LOAD_COMPLAINTS_ERROR = 'LOAD_COMPLAINTS_ERROR';
+export const LOAD_COMPLAINT_WITH_ID = 'LOAD_COMPLAINT_WITH_ID';
+export const RESOLVE_COMPLAINT_WITH_ID = 'RESOLVE_COMPLAINT_WITH_ID';
+export const ALL_USER_COMPLAINTS = 'ALL_USER_COMPLAINTS';
+export const GET_USERS = 'GET_USERS';
+export const ERROR_GET_USERS = 'ERROR_GET_USERS';
+export const UPDATE_USER_ROLE = 'UPDATE_USER_ROLE';
+export const API_ENDPOINT = 'https://complaint-management-software.herokuapp.com';

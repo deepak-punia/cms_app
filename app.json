@@ -1,11 +1,10 @@
 {
   "expo": {
-    "name": "APP",
-    "slug": "APP",
+    "name": "lonely-donut",
+    "slug": "snack-e2bf854f-dfc3-4f4e-b857-acbcd850c2eb",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
